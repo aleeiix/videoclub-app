@@ -1,5 +1,10 @@
 {
 	"users": [],
+
+	"stores": [],
+
+	"films": [],
+
 	"roles": [
 		{
 			"id": 1,
@@ -11,8 +16,50 @@
 		}
 	],
 
-	"stores": [],
-
-	"films": [],
-	"genders": []
+	"genders": [
+		{
+			"id": 1,
+			"name": "Acción"
+		},
+		{
+			"id": 2,
+			"name": "Aventuras"
+		},
+		{
+			"id": 3,
+			"name": "Ciencia Ficción"
+		},
+		{
+			"id": 4,
+			"name": "Comedia"
+		},
+		{
+			"id": 5,
+			"name": "Drama"
+		},
+		{
+			"id": 6,
+			"name": "Suspense"
+		},
+		{
+			"id": 7,
+			"name": "Terror"
+		},
+		{
+			"id": 8,
+			"name": "Fantasía"
+		},
+		{
+			"id": 9,
+			"name": "Musical"
+		},
+		{
+			"id": 10,
+			"name": "Animación"
+		},
+		{
+			"id": 11,
+			"name": "Documental"
+		}
+	]
 }
