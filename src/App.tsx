@@ -1,6 +1,6 @@
 import { Button } from '@material-ui/core'
 
-const App = () => {
+function App() {
 	return (
 		<div className='App'>
 			<h1>Hola</h1>

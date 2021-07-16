@@ -1,0 +1,18 @@
+{
+	"users": [],
+	"roles": [
+		{
+			"id": 1,
+			"name": "USER"
+		},
+		{
+			"id": 2,
+			"name": "ADMIN"
+		}
+	],
+
+	"stores": [],
+
+	"films": [],
+	"genders": []
+}
